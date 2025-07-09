@@ -1,5 +1,5 @@
 module.exports = {
-    db: 'mongodb://127.0.0.1:27017/userapitest'
+    db: 'mongodb+srv://nouman_molla:Nouman%401999@cluster0.t66ajgv.mongodb.net/mern_ecommerce'
   }
 
 
